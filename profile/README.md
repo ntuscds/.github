@@ -6,4 +6,4 @@ Here you will find the central repositary for all projects done by NTU SCSE.
 
 ## Contact
 Please contact the following for sponsorships, partnerships, information and/or grieviances.
-* IT Execute: cse-it@e.ntu.edu.sg
+* IT Executive contact email: cse-it@e.ntu.edu.sg
